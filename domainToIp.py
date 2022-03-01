@@ -2,7 +2,7 @@ import socket
 import xlwt 
 from xlwt import Workbook
 
-file = open('/home/siddhesh/Documents/SOC Tools/D2IP/D2IP.txt','r')
+file = open('','r')
 
 domain_list = []
 wb = Workbook()
