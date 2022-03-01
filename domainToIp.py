@@ -2,7 +2,7 @@ import socket
 import xlwt 
 from xlwt import Workbook
 
-file = open('','r')
+file = open("<Enter input file path here>",'r')
 
 domain_list = []
 wb = Workbook()
